@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'fira';
+    src: url('firasans-extralight.eot');
+    src: url('firasans-extralight.eot?#iefix') format('embedded-opentype'),
+         url('firasans-extralight.woff') format('woff'),
+         url('firasans-extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'fira';
+    src: url('firasans-light.eot');
+    src: url('firasans-light.eot?#iefix') format('embedded-opentype'),
+         url('firasans-light.woff') format('woff'),
+         url('firasans-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'fira';
+    src: url('firasans-book.eot');
+    src: url('firasans-book.eot?#iefix') format('embedded-opentype'),
+         url('firasans-book.woff') format('woff'),
+         url('firasans-book.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
